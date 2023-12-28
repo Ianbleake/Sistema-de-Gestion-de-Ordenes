@@ -6,7 +6,7 @@ export const Navbar = () => {
                 <a href="/">a</a>
                 <a href="/product">a</a>
                 <a href="/admin">a</a>
-                <a href="#">a</a>
+                <a href="/carrito">a</a>
         </footer>
     )
 }

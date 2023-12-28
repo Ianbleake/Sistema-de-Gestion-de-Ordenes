@@ -1,5 +1,5 @@
 import React from "react";
-import { Search, Palmera } from "./Icons"
+import { Search, Palmera} from "./Icons"
 
 export const Banner = () => {
     return (

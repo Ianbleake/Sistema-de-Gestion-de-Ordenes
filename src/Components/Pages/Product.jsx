@@ -3,7 +3,7 @@ import { Showscreen } from '../Showscreen'
 
 export const Product = () => {
   return (
-    <div>
+    <div >
         <Showscreen></Showscreen>
     </div>
   )
